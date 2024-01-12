@@ -88,7 +88,7 @@ body {
 
 .w-right h2 {
     position: absolute;
-    top: 1020px;
+    top: 1200px;
     background-color: rgb(102, 168, 180);
     width: 210px;
     padding-left: 15px; 
@@ -135,7 +135,7 @@ body {
 
 .work1 h2 {
     position: absolute;
-    top: 1220px;
+    top: 1380px;
     background-color: rgb(102, 168, 180);
     width: 180px;
     padding-left: 15px;
@@ -162,7 +162,7 @@ body {
 
 .work2 h2 {
     position: absolute;
-    top: 1390px;
+    top: 1550px;
     background-color: rgb(102, 168, 180);
     width: 150px;
     padding-left: 15px;
